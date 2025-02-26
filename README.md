@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💼 Fazendo projetos como Desenvolvendor Full-Stack
+  💼 Fazendo projetos como Desenvolvendor Full-Stack.
 </p>
 
 ---
